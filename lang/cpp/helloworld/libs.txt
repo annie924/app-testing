@@ -1,5 +1,6 @@
 libcxxabi
 libcxx
 libunwind
+lib-mimalloc
 compiler-rt
 musl
